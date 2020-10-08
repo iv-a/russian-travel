@@ -15,6 +15,7 @@
 * Работа с макетом в **Figma**
 * Анимации и трансформации элементов
 ***
-* [Проектная работа на GitHub Pages]()
+### Ссылки:
+* [Проектная работа на GitHub Pages](https://zyoma689.github.io/russian-travel/index.html)
 * [Макет Figma](https://code.s3.yandex.net/web-developer/project-2/Russia-desktop-and-mobile.fig)
 * [Чеклист](https://code.s3.yandex.net/web-developer/checklists/new-program/checklist-3/index.html)
